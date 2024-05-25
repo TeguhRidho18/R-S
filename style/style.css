@@ -1,0 +1,10 @@
+*
+.back {
+    background-image:url('asset/background.png');
+    background-color: whitesmoke;
+}
+
+.img {
+    margin-bottom: auto;
+    height: 20px;
+}
